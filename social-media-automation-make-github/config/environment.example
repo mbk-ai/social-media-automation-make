@@ -1,0 +1,8 @@
+# Showcase configuration placeholders
+GOOGLE_SHEET_ID=YOUR_GOOGLE_SHEET_ID
+FACEBOOK_PAGE_ID=YOUR_FACEBOOK_PAGE_ID
+INSTAGRAM_ACCOUNT_ID=YOUR_INSTAGRAM_ACCOUNT_ID
+APPROVAL_EMAIL=YOUR_EMAIL@example.com
+
+# Credentials are configured securely inside Make.com.
+# Do not store API keys or OAuth tokens in this file.

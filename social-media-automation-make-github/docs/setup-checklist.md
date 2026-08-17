@@ -1,0 +1,21 @@
+# Setup Checklist
+
+- [ ] Create the Google Sheet.
+- [ ] Add the required content columns.
+- [ ] Import the sanitized Make.com blueprint.
+- [ ] Connect Google Sheets.
+- [ ] Connect OpenAI.
+- [ ] Connect Gmail.
+- [ ] Connect Facebook Pages.
+- [ ] Connect Instagram Business.
+- [ ] Connect LinkedIn.
+- [ ] Replace all placeholder IDs.
+- [ ] Set the approval email recipient.
+- [ ] Test content generation with one row.
+- [ ] Verify generated copy in the sheet.
+- [ ] Verify generated image URL.
+- [ ] Test the approval notification.
+- [ ] Change one row to `ready to post`.
+- [ ] Test publishing.
+- [ ] Verify `posting complete` status.
+- [ ] Add screenshots to `/screenshots`.
